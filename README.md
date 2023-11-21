@@ -1,1 +1,1 @@
-# maven-project
+# Example of a Jenkins Maven pipeline
